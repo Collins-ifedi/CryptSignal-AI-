@@ -1,1 +1,2 @@
 # CryptSignal-AI-
+This is an open source AI powered crypto analyst AI backend for devs and Startups. It is capable of carrying out technical analysis, social sentiment analysis, macro news analysis, anomaly detection, macro_economy_indicator analysis, pattern analysis and signal generation based on any crypto asset. You can twick the code to suit your needs and also adjust the file path in the code and api keys in the credentials.yaml file which is under configuration folder in the cryptsignal zip file..
